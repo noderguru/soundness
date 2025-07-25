@@ -54,6 +54,10 @@ soundness-cli import-key --name <key-name> --mnemonic "<твой мнемони�
 
 <img width="1886" height="618" alt="image" src="https://github.com/user-attachments/assets/c712cd73-46fe-43f8-bbcc-840da10afa53" />
 
+После этого вы практически мгновенно получите роль OG
+
+<img width="359" height="85" alt="image" src="https://github.com/user-attachments/assets/e41b8b2a-411e-40af-9eb2-3da11be789b7" />
+
 
 
 
