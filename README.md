@@ -59,6 +59,8 @@ soundness-cli import-key --name <key-name> --mnemonic "<твой мнемони�
 
 https://soundnessrole.netlify.app
 
+<img width="732" height="746" alt="image" src="https://github.com/user-attachments/assets/08803e3a-1af6-4293-b335-b841d612d345" />
+
 
 
 
