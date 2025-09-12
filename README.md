@@ -54,6 +54,11 @@ soundness-cli import-key --name <key-name> --mnemonic "<твой мнемони�
 
 <img width="359" height="85" alt="image" src="https://github.com/user-attachments/assets/e41b8b2a-411e-40af-9eb2-3da11be789b7" />
 
+===========================================================================
+## Смотреть по какой роли сейчас доступны игры и генерация proof 
+
+https://soundnessrole.netlify.app
+
 
 
 
